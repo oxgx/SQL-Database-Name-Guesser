@@ -1,4 +1,3 @@
-"""
 SQL Database Name Guesser
 
 Description:
@@ -32,5 +31,3 @@ Acknowledgments:
 Notes:
 - The effectiveness of this script depends on accurate initial configuration and may require 
   adjustments based on the application's specific behavior and protections.
-
-"""
